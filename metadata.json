@@ -1,0 +1,8 @@
+{
+  "name": "EduMentor AI - Premium EdTech SAAS",
+  "description": "A production-ready, role-based EdTech platform architecture featuring AI-driven learning paths, instructor tools, and administrative controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
